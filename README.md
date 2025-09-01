@@ -20,13 +20,13 @@ ___
 4. Correr el problema en el botón ubicado arriba a la derecha.
 
 ### Linux
-1. Instalar g++: sudo apt-get install g++
-2. Compilar con: g++ archivo.cpp -o programa
-3. Ejecutar con: ./programa
+1. Instalar herramientas necesarias ejecutando los siguientes comandos: sudo apt-get -y update ; sudo apt-get -y upgrade ;  sudo apt-get install build-essential 
+2. Compilar con: g++ -o archivo1 *tuarchivo*.cpp
+3. Ejecutar con: ./archivo1
 
 ### macOS
 1. Instalar compilador: xcode-select --install
-2. Compilar con: g++ archivo.cpp -o programa
+2. Crear un archivo fuente que sea .cpp
 3. Ejecutar con: ./programa
 
 ## ESTRUCTURA DEL REPOSITORIO
