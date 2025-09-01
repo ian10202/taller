@@ -13,9 +13,11 @@ ___
 ## GUIAS DE COMPILACIÓN
 
 ### Windows
-1. Instalar MinGW o usar MSYS2.
-2. Compilar con: g++ archivo.cpp -o programa.exe
-3. Ejecutar con: programa.exe
+1. Instalar VisualStudioCode en Google. 
+2. Seguir los pasos del siguiente video para poder correr el programa  
+   https://youtu.be/PE45HkM6J9I?si=1zyhTKZpWf6GLQrW
+3. Abrir un archivo.cpp y añadir l codigo brindado de la respectiva situación a evaluar.  
+4. Correr el problema en el botón ubicado arriba a la derecha.
 
 ### Linux
 1. Instalar g++: sudo apt-get install g++
