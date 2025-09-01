@@ -24,7 +24,7 @@ ___
 2. Compilar con: g++ archivo.cpp -o programa
 3. Ejecutar con: ./programa
 
-### Mac
+### macOS
 1. Instalar compilador: xcode-select --install
 2. Compilar con: g++ archivo.cpp -o programa
 3. Ejecutar con: ./programa
