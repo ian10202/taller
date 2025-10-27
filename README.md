@@ -1,8 +1,8 @@
 ## INTEGRANTES
 ___
-*  Juan Diego Campo Del Rio 1043977355  
-*  Ian Mateo Rodrgiquez Gómez 1025539727  
-*  Tomás Felipe Morera Pérez  1033101003  
+*  Juan Diego Campo Del Rio  
+*  Ian Mateo Rodrgiquez Gómez  
+*  Tomás Felipe Morera Pérez 
 
 ## INFORMACIÓN
 ___
